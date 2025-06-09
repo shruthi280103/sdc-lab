@@ -9,4 +9,4 @@ emitter.on('greet', (name) => {
 });
 
 // Emit the event
-emitter.emit('greet', 'shruthu');
+emitter.emit('greet', 'shruthi');
